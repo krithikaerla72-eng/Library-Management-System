@@ -40,4 +40,4 @@ INSERT INTO books (book_id, title, author, available) VALUES
 INSERT INTO members (member_id, name) VALUES
 (1, 'Rupesh'),
 (2, 'Arnav'),
-(3, 'Kavya');
+(3, 'Krithika');
